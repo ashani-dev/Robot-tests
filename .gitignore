@@ -1,0 +1,20 @@
+# Ignore Robot framework results
+results/
+output.xml
+log.html
+report.html
+
+#Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Virtual environment
+venv/
+.env/
+
+
+#Ignore OS junk files
+.DS_Store
+Thumbs.db
